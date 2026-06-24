@@ -47,4 +47,4 @@ Pharmaceutical quality failures can arise due to formulation issues, manufacturi
 ## Author
 
 Altamash Alam
-Biomedical Engineering, IIT (BHU) Varanasi
+IIT (BHU) Varanasi
